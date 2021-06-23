@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KholofeloMaleka
+- 👋 Hi
 
 - 👀 I’m interested in DevOps / Java Development / FullStack Web Development / Databases / SQL
 - 🌱 I’m currently learning Full Stack Development & DevOps
